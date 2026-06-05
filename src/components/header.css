@@ -1,0 +1,17 @@
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 0%;
+  }
+
+  50% {
+    background-position: 0% 50%;
+  }
+
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
+.animate-gradient {
+  animation: gradientMove 10s ease infinite;
+}
