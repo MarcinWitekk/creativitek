@@ -6,7 +6,7 @@ export default function About() {
             <main className="snap-y snap-mandatory scroll-smooth h-screen overflow-y-scroll">  
                 <section className="h-screen snap-start flex flex-col justify-center bg-gradient-to-b from-cyan-50 from-10% via-purple-50 via-80% to-white 
                 bg-[length:100%_200%] animate-gradient">
-                        <div className="flex items-center justify-center -m-12 md:hidden">
+                        <div className="flex items-center justify-center -mb-12 md:hidden">
                             <Image
                             src="/logo_creativitek.png" 
                             alt="Avatart image" 
