@@ -13,7 +13,7 @@ export default function About() {
                             width={150} 
                             height={150} 
                             loading="eager"
-                            className="logo" 
+                            className="" 
                             />
                         </div>
                     <div>
